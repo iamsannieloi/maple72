@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "D:/Downloads/kyboards/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "D:/Downloads/kyboards/random-keyboard-parts.pretty-master/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "ergodash-cache")(type "Legacy")(uri "D:/Downloads/ErgoDash-master/mini/PCB/ergodash-cache.lib")(options "")(descr ""))
+)
